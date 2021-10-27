@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c58fc7c3-4f35-4cfd-9d5b-dd1113fa7f5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/edu/hunnu/eduservice/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_base/target/classes/edu/hunnu/eduservice/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/edu/hunnu/serurity/config/TokenWebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/spring_security/src/main/java/edu/hunnu/serurity/config/TokenWebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/edu/hunnu/serurity/security/DefaultPasswordEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/spring_security/src/main/java/edu/hunnu/serurity/security/DefaultPasswordEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/edu/hunnu/serurity/security/TokenManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/spring_security/src/main/java/edu/hunnu/serurity/security/TokenManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_acl/src/main/java/edu/hunnu/aclservice/controller/PermissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_acl/src/main/java/edu/hunnu/aclservice/controller/PermissionController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/MyDev/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\MyDev\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tIFOrzctnvIIgIXfm285RSNK0M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_acl/src/main/java/edu/hunnu" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects1\guli_parent\service\service_acl\src\main\java\edu\hunnu" />
+      <recent name="E:\Projects1\guli_parent\service\service_acl\src\main\resources" />
+      <recent name="E:\Projects1\guli_parent\common\spring_security\src\main\java\edu\hunnu" />
+      <recent name="E:\Projects1\guli_parent\infrastructure\api_gateway\src\main\resources" />
+      <recent name="E:\Projects1\guli_parent\infrastructure\api_gateway\src\main\java\edu\hunnu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAclApplication">
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunnu.eduservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunnu.eduservice.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_oos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunnu.oss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunnu.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_acl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunnu.aclservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunnu.aclservice.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunnu.staservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunnu.staservice.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_ucenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunnu.educenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunnu.educenter.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UcenterApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.StaApplication" />
+      <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Spring Boot.ServiceAclApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAclApplication" />
+        <item itemvalue="Spring Boot.StaApplication" />
+        <item itemvalue="Spring Boot.UcenterApplication" />
+        <item itemvalue="Spring Boot.EduApplication" />
+        <item itemvalue="Spring Boot.OssApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c58fc7c3-4f35-4cfd-9d5b-dd1113fa7f5a" name="Default Changelist" comment="" />
+      <created>1622448669695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622448669695</updated>
+      <workItem from="1622448671999" duration="2677000" />
+      <workItem from="1622451650160" duration="18049000" />
+      <workItem from="1622523396809" duration="3000" />
+      <workItem from="1622524589961" duration="5000" />
+      <workItem from="1622646454066" duration="173000" />
+      <workItem from="1622650034205" duration="413000" />
+      <workItem from="1622712389328" duration="9791000" />
+      <workItem from="1622770957152" duration="3488000" />
+      <workItem from="1622782668581" duration="15978000" />
+      <workItem from="1622818957789" duration="5239000" />
+      <workItem from="1622827270213" duration="35000" />
+      <workItem from="1622827323005" duration="2600000" />
+      <workItem from="1622869346744" duration="11829000" />
+      <workItem from="1622901818680" duration="10416000" />
+      <workItem from="1622961182131" duration="21189000" />
+      <workItem from="1622990686168" duration="1514000" />
+      <workItem from="1623041919884" duration="6000" />
+      <workItem from="1623042935181" duration="6500000" />
+      <workItem from="1623251862032" duration="4511000" />
+      <workItem from="1623303345044" duration="1199000" />
+      <workItem from="1623316830716" duration="17607000" />
+      <workItem from="1623342092445" duration="2955000" />
+      <workItem from="1623375928464" duration="340000" />
+      <workItem from="1623376317139" duration="7400000" />
+      <workItem from="1623397824406" duration="9999000" />
+      <workItem from="1623419641352" duration="10930000" />
+      <workItem from="1623481308374" duration="2721000" />
+      <workItem from="1623488449252" duration="973000" />
+      <workItem from="1623491430905" duration="4204000" />
+      <workItem from="1623499475477" duration="1132000" />
+      <workItem from="1623501160991" duration="1875000" />
+      <workItem from="1623510189979" duration="2535000" />
+      <workItem from="1623514512208" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_acl/src/main/java/edu/hunnu/aclservice/service/impl/PermissionServiceImpl.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
