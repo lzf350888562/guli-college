@@ -2307,7 +2307,7 @@ java实现:
 
 | AccessKeyId              | AccessKeySecret                |
 | ------------------------ | ------------------------------ |
-| LTAI5tHxiwUrwogLA1XTJpVL | oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV |
+| xxx                      | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
 
 2.找到java sdk 文档 .
 
