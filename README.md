@@ -284,7 +284,7 @@ public class SwaggerConfig {
             .title("网站-课程中心API文档")
             .description("本文档描述了课程中心微服务接口的定义")
             .version("1.0")
-            .contact(new Contact("helen","http://baidu.com","350888562@qq.com"))
+            .contact(new Contact("helen","http://baidu.com","xxx@qq.com"))
             .build();
    }
 }
