@@ -2345,8 +2345,8 @@ spring.profiles.active=dev
   #阿里云 OSS
   #不同的服务器，地址不同  不能多空格
 aliyun.oss.file.endpoint=oss-cn-guangzhou.aliyuncs.com
-aliyun.oss.file.keyid=LTAI5tHxiwUrwogLA1XTJpVL
-aliyun.oss.file.keysecret=oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV
+aliyun.oss.file.keyid=xxx
+aliyun.oss.file.keysecret=xxx
   #bucket可以在控制台创建，也可以使用java代码创建
 aliyun.oss.file.bucketname=lzf-guli2021
 
@@ -3183,7 +3183,7 @@ public class InitObject {
 @Test
 public void test1() throws ClientException {
    //创建初始化对象
-   DefaultAcsClient client = InitObject.initVodClient("LTAI5tHxiwUrwogLA1XTJpVL", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV");
+   DefaultAcsClient client = InitObject.initVodClient("xxx", "xxx");
    //创建获取视频地址request和response
    GetPlayInfoRequest request = new GetPlayInfoRequest();
    GetPlayInfoResponse response = new GetPlayInfoResponse();
@@ -3210,7 +3210,7 @@ public void test1() throws ClientException {
 @Test
 public void test2() throws ClientException {
    //创建初始化对象
-   DefaultAcsClient client = InitObject.initVodClient("LTAI5tHxiwUrwogLA1XTJpVL", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV");
+   DefaultAcsClient client = InitObject.initVodClient("xxx", "xxx");
    //创建获取视频地址request和response
    GetVideoPlayAuthRequest request = new GetVideoPlayAuthRequest();
    GetVideoPlayAuthResponse response = new GetVideoPlayAuthResponse();
@@ -3239,7 +3239,8 @@ public static void main(String[] args) {
    //文件名必须包含扩展名
    String fileName = "E:/Others Demo/guli_otherfile/video/6 - What If I Want to Move Faster.mp4";
    //本地文件上传
-   UploadVideoRequest request = new UploadVideoRequest("LTAI5tHxiwUrwogLA1XTJpVL", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV", title, fileName);
+   UploadVideoRequest request = new UploadVideoRequest("L
+	", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV", title, fileName);
    /* 可指定分片上传时每个分片的大小，默认为1M字节 */
    request.setPartSize(1 * 1024 * 1024L);
    /* 可指定分片上传时的并发线程数，默认为1，(注：该配置会占用服务器CPU资源，需根据服务器情况指定）*/
@@ -4079,7 +4080,7 @@ public class MsmServiceImpl implements MsmService {
         if(StringUtils.isEmpty(phone)) {return false;}
 
         DefaultProfile profile =
-                DefaultProfile.getProfile("default", "LTAI5tHxiwUrwogLA1XTJpVL", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV");
+                DefaultProfile.getProfile("default", "xxx", "xxx");
         IAcsClient client = new DefaultAcsClient(profile);
 
         //设置相关固定参数
