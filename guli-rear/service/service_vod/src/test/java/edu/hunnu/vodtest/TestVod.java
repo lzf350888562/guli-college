@@ -30,7 +30,7 @@ public class TestVod {
 		//文件名必须包含扩展名
 		String fileName = "E:/Others Demo/guli_otherfile/video/6 - What If I Want to Move Faster.mp4";
 		//本地文件上传
-		UploadVideoRequest request = new UploadVideoRequest("LTAI5tHxiwUrwogLA1XTJpVL", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV", title, fileName);
+		UploadVideoRequest request = new UploadVideoRequest("xxx", "xxx", title, fileName);
 		/* 可指定分片上传时每个分片的大小，默认为1M字节 */
 		request.setPartSize(1 * 1024 * 1024L);
 		/* 可指定分片上传时的并发线程数，默认为1，(注：该配置会占用服务器CPU资源，需根据服务器情况指定）*/
