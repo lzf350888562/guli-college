@@ -57,7 +57,7 @@ public class TestVod {
 	@Test
 	public void test1() throws ClientException {
 		//创建初始化对象
-		DefaultAcsClient client = InitObject.initVodClient("LTAI5tHxiwUrwogLA1XTJpVL", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV");
+		DefaultAcsClient client = InitObject.initVodClient("xxx", "xxx");
 		//创建获取视频地址request和response
 		GetPlayInfoRequest request = new GetPlayInfoRequest();
 		GetPlayInfoResponse response = new GetPlayInfoResponse();
@@ -82,7 +82,7 @@ public class TestVod {
 	@Test
 	public void test2() throws ClientException {
 		//创建初始化对象
-		DefaultAcsClient client = InitObject.initVodClient("LTAI5tHxiwUrwogLA1XTJpVL", "oERmIrTdjQ7xYDlN9vCrJ9B9X6JCTV");
+		DefaultAcsClient client = InitObject.initVodClient("xxxL", "xxx");
 		//创建获取视频地址request和response
 		GetVideoPlayAuthRequest request = new GetVideoPlayAuthRequest();
 		GetVideoPlayAuthResponse response = new GetVideoPlayAuthResponse();
